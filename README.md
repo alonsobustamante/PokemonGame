@@ -2,7 +2,7 @@
 
 ## Resultado Final
 
-![Pokemon Game] (https://github.com/alonsobustamante/PokemonGame/blob/master/raw/PokemonGame.JPG)
+![Pokemon Game](https://github.com/alonsobustamante/PokemonGame/blob/master/raw/PokemonGame.JPG)
 
 
 ## Project setup
