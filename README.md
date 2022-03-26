@@ -1,5 +1,10 @@
 # pokemon-game
 
+## Resultado Final
+
+![Pokemon Game] (https://github.com/alonsobustamante/PokemonGame/blob/master/raw/PokemonGame.JPG)
+
+
 ## Project setup
 ```
 npm install
