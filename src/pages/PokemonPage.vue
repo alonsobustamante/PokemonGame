@@ -10,12 +10,12 @@
         @selection-pokemon="checkAnswer($event)"
       />
 
-      <tepmplate v-if="showAnswer">
+      <template v-if="showAnswer">
         <h2 class="fade-in">{{message}}</h2>
         <button @click=newGame>
           Nuevo juego
         </button>
-      </tepmplate>
+      </template>
       
     </div>
     
